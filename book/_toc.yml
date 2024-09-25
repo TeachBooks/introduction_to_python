@@ -5,6 +5,14 @@ parts:
   - caption: Contents
     chapters:
     - file: some_content/overview.md
+    - file: notebook_1/PythonNotebook1.ipynb
+    - file: notebook_2/PythonNotebook2.ipynb
+    - file: notebook_3/PythonNotebook3.ipynb
+    - file: notebook_4/PythonNotebook4.ipynb
+    - file: notebook_5/PythonNotebook5.ipynb
+    - file: notebook_6/PythonNotebook6.ipynb
+    - file: notebook_7/PythonNotebook7.ipynb
+    - file: notebook_8/PythonNotebook8.ipynb
       sections:
       - file: some_content/text_and_code.ipynb
       - file: notebook_1/PythonNotebook1.ipynb
