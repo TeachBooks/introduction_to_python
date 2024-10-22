@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: files-and-folders/book/part1/part1.md
     - file: notebook_1/PythonNotebook1_first_page.ipynb
       sections:
       - file: notebook_1/PythonNotebook1_first_python_script.ipynb
