@@ -4,17 +4,16 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: installation.md
     - file: files-and-folders/book/part1/part1.md
+    - file: files-and-folders/book/part2/part2.md
+    - file: files-and-folders/book/part3/part3.md
+    - file: files-and-folders/book/part4/part4.md
+    - file: files-and-folders/book/part5/part5.md
     - file: notebook_1/PythonNotebook1_first_page.ipynb
       sections:
       - file: notebook_1/PythonNotebook1_first_python_script.ipynb
       - file: notebook_1/PythonNotebook1_python_variables.ipynb
       - file: notebook_1/PythonNotebook1_python_operators.ipynb
     - file: notebook_2/PythonNotebook2.ipynb
-    - file: notebook_3/PythonNotebook3.ipynb
-    - file: notebook_4/PythonNotebook4.ipynb
-    - file: notebook_5/PythonNotebook5.ipynb
-    - file: notebook_6/PythonNotebook6.ipynb
-    - file: notebook_7/PythonNotebook7.ipynb
-    - file: notebook_8/PythonNotebook8.ipynb
     - file: references.md
