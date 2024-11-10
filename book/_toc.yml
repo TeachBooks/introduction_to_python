@@ -9,3 +9,6 @@ parts:
     - file: files-and-folders/book/part3/part3.md
     - file: files-and-folders/book/part4/part4.md
     - file: files-and-folders/book/part5/part5.md
+  - caption: Getting started!
+    chapters:
+    - file: installation/installation.md
