@@ -4,11 +4,6 @@ In this course you will be learning the programming language
 Python. To try it in practice and to do the course exercises you need
 a way to run Python programs on your own computer.
 
-In the course we will use _Jupyter Notebooks_, which allows running
-small pieces of Python in a web browser, and nicely shows the code
-together with the output. (You will later learn that Python can also
-run in other ways).
-
 If you use Linux (which we highly recommended in the long term), you
 can install Jupyter with your system's package manager. You can ask a
 TA or the lecturer for help.
