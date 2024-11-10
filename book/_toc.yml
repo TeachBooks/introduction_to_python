@@ -2,6 +2,10 @@ format: jb-book
 root: intro.md
 
 parts:
+  - caption: Getting started!
+    chapters:
+    - file: installation/installation.md
+
   - caption: Files and folders
     chapters:
     - file: files-and-folders/book/part1/part1.md
@@ -9,6 +13,11 @@ parts:
     - file: files-and-folders/book/part3/part3.md
     - file: files-and-folders/book/part4/part4.md
     - file: files-and-folders/book/part5/part5.md
-  - caption: Getting started!
+
+  - caption: Python Notebooks
     chapters:
-    - file: installation/installation.md
+    - file: notebook_1/PythonNotebook1_first_page.ipynb
+    sections:
+      - file: notebook_1/PythonNotebook1_first_python_script.ipynb
+      - file: notebook_1/PythonNotebook1_python_variables.ipynb
+      - file: notebook_1/PythonNotebook1_python_operators.ipynb
