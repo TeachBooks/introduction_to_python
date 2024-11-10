@@ -5,12 +5,12 @@ parts:
   - caption: Files and folders
     chapters:
     - file: intro_to_files_and_folders.md
-    sections:
-      - file: files-and-folders/book/part1/part1.md
-      - file: files-and-folders/book/part2/part2.md
-      - file: files-and-folders/book/part3/part3.md
-      - file: files-and-folders/book/part4/part4.md
-      - file: files-and-folders/book/part5/part5.md
+      sections:
+        - file: files-and-folders/book/part1/part1.md
+        - file: files-and-folders/book/part2/part2.md
+        - file: files-and-folders/book/part3/part3.md
+        - file: files-and-folders/book/part4/part4.md
+        - file: files-and-folders/book/part5/part5.md
   - caption: Installation
     chapters:
     - file: installation.md
