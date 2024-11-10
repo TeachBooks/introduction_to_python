@@ -1,15 +1,15 @@
 (intro)=
 # Welcome to Introduction to Python
 
-This Introduction to Python course forms part of the course AESB1000 Grand Challenges 
-for first year students of TUDelft. This book contains the study material for the course, 
-which you will work on during the classes. For every class, there is a separate
-exercise "notebook" on Brightspace, which you need to complete and
-submit (in pairs).
+This Introduction to Python course is part of AESB1000 Grand Challenges for first-year BSc. Applied Earth Sciences students at TU Delft. The accompanying book contains the theoretical material, while exercises are provided as separate notebooks on Brightspace, which must be completed and submitted in pairs.
 
-As additional study material, we recommend the open source book
-["Think Python 2nd Edition"](https://greenteapress.com/wp/think-python-2e/)
-by Allen B. Downey.
+In this course, you will use **Python Notebooks** with Jupyter Notebooks or Jupyter Lab for exercises. These notebooks allow you to run scripts in segments, called cells, enabling you to execute specific code parts individually. To run a cell, select it and press **'run cell'** or use the **Shift + Enter** shortcut. This is particularly useful for data analysis, as it allows for quick modifications or the addition of explanations, formulas, or visualizations.
+
+## Book Layout
+
+Use the sidebar on the left to navigate between sections. Embedded links provide a consistent narrative across related topics, helping you explore connections between different content areas.
+
+Pages with interactive coding feature a **rocket icon** (<i class="fa fa-rocket" aria-hidden="true"></i>) at the top right. Hover over it and click on <span style="white-space: nowrap;">{guilabel}`Live Code`</span>. Wait for the necessary packages to load, and the interactive content will then be ready to use.
 
 <!-- For Lesson 1, the topics are to set up Python on your computer (Installation)
 and to study Files and Folders, part 1 to 5.
