@@ -21,5 +21,6 @@ parts:
         - file: notebook_1/PythonNotebook1_first_python_script.ipynb
         - file: notebook_1/PythonNotebook1_python_variables.ipynb
         - file: notebook_1/PythonNotebook1_python_operators.ipynb
-
-  - file: references.md
+  - captions: References
+    chapters:
+      - file: references.md
