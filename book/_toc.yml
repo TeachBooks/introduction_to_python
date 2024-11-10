@@ -17,7 +17,7 @@ parts:
   - caption: Python Notebooks
     chapters:
     - file: notebook_1/PythonNotebook1_first_page.ipynb
-    sections:
-      - file: notebook_1/PythonNotebook1_first_python_script.ipynb
-      - file: notebook_1/PythonNotebook1_python_variables.ipynb
-      - file: notebook_1/PythonNotebook1_python_operators.ipynb
+      sections:
+        - file: notebook_1/PythonNotebook1_first_python_script.ipynb
+        - file: notebook_1/PythonNotebook1_python_variables.ipynb
+        - file: notebook_1/PythonNotebook1_python_operators.ipynb
