@@ -35,13 +35,13 @@ following the instructions below.
 * Figure out where you downloaded the file. Run it.
   Complete the installation according to the instructions you see.
 
-<div class="alert alert-block alert-info">
-NOTE: Do not install Anaconda in a location (path) that contains
+```{admonition} Attention
+:class: danger
+Do not install Anaconda in a location (path) that contains
 non-latin characters, for example if you have Chinese or other
 non-latin characters in your Windows user name.  Select an
 installation path which does not contain such characters. Also it's
 best to avoid spaces in the path.
-</div>
-
-
++++
+```
 
