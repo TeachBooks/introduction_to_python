@@ -3,11 +3,9 @@ root: intro.md
 
 parts:
   - caption: Files and folders
-      - file: files-and-folders/book/part1/part1.md
-      - file: files-and-folders/book/part2/part2.md
-      - file: files-and-folders/book/part3/part3.md
-      - file: files-and-folders/book/part4/part4.md
-      - file: files-and-folders/book/part5/part5.md
-  - caption: Installation
+    chapters:
+    - file: files-and-folders/book/part1/part1.md
+    - file: files-and-folders/book/part1/part2.md
+  - caption: Getting started
     chapters:
     - file: installation.md
