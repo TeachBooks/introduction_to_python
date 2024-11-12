@@ -14,8 +14,6 @@ parts:
     - file: files-and-folders/book/part4/part4.md
     - file: files-and-folders/book/part5/part5.md
 
-
-
   - caption: Course content
     chapters:
     - file: notebook_1/PythonNotebook1_first_page.ipynb
