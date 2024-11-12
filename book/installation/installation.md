@@ -42,6 +42,6 @@ best to avoid spaces in the path.
 
 # First Exercise Notebook
 
-* [Click here](https://gist.github.com/guin0x/1b35dc7020750dc0317a77549210d017/archive/81cab5b79060b3c3891115babc6b08467eb588f2.zip) to download Exercise Notebook 1.
+* [Click here](https://gist.github.com/guin0x/1b35dc7020750dc0317a77549210d017/archive/bee7210da7028f325efcdd35507daf859c004546.zip) to download Exercise Notebook 1.
 * Unzip the file so that you can open the Jupyter Notebook (which has a `.ipynb` extension)
 * Follow [these instructions](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/) to run the Jupyter Notebook with Anaconda.
