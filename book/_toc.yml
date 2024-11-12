@@ -14,7 +14,7 @@ parts:
     chapters:
     - file: installation/installation.md
 
-  - caption: Python Notebooks
+  - caption: Course content
     chapters:
     - file: notebook_1/PythonNotebook1_first_page.ipynb
       sections:
