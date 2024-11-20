@@ -22,6 +22,13 @@ parts:
         - file: notebook_1/PythonNotebook1_python_variables.ipynb
         - file: notebook_1/PythonNotebook1_python_operators.ipynb
         - file: exercise_notebooks/exercise_notebook_week_2.ipynb
+
+    -file: notebook_2/PythonNotebook2_first_page.ipynb
+      sections:
+        - file: notebook_2/PythonNotebook2_f-strings.ipynb
+        - file: notebook_2/PythonNotebook2_functions.ipynb
+
+    
   # - caption: References
   #   chapters:
   #     - file: references.md
