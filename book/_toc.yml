@@ -29,7 +29,6 @@ parts:
         - file: notebook_2/PythonNotebook2_functions.ipynb
         - file: notebook_2/PythonNotebook2_modules.ipynb
         - file: notebook_2/PythonNotebook2_conditions.ipynb
-        - file: notebook_2/PythonNotebook2_data_structures.ipynb
         - file: exercise_notebooks/exercise_notebook_week_3.ipynb
 
     

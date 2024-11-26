@@ -20,7 +20,8 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       repository_url: "https://github.com/TeachBooks/introduction_to_python" #add your own repo URL here
-      repository_branch: "main"
+      # repository_branch: "main"
+      repository_branch: "{{ repository_branch }}"
       path_to_docs: "book"
       use_edit_page_button: true
       use_repository_button: false  # Optionally disable the default repository button
