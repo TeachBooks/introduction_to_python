@@ -31,6 +31,13 @@ parts:
         - file: notebook_2/PythonNotebook2_conditions.ipynb
         - file: exercise_notebooks/exercise_notebook_week_3.ipynb
 
+    - file: notebook_3/PythonNotebook3_first_page.ipynb
+      sections:
+        - file: notebook_3/PythonNotebook3_data_structures.ipynb
+        - file: notebook_3/PythonNotebook3_loops.ipynb
+        - file: notebook_3/PythonNotebook3_debugging.ipynb
+        - file: exercise_notebooks/exercise_notebook_week_4.ipynb
+
     
   # - caption: References
   #   chapters:
