@@ -38,6 +38,10 @@ parts:
         - file: notebook_3/PythonNotebook3_debugging.ipynb
         - file: exercise_notebooks/exercise_notebook_week_4.ipynb
 
+    - file: notebook_4/PythonNotebook4_first_page.ipynb
+      sections:
+        - file: notebook_4/PythonNotebook4_matplotlib.ipynb
+
     
   # - caption: References
   #   chapters:
