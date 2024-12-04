@@ -43,6 +43,6 @@ parts:
         - file: notebook_4/PythonNotebook4_matplotlib.ipynb
 
     
-  # - caption: References
+  # - caption: References 
   #   chapters:
   #     - file: references.md
