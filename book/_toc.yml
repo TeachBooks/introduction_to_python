@@ -46,6 +46,7 @@ parts:
       sections:
         - file: notebook_5/PythonNotebook5_vectors_and_plotting_with_numpy.ipynb
         - file: notebook_5/PythonNotebook5_loading_data.ipynb
+        - file: exercise_notebooks/exercise_notebook_week_6.ipynb
 
     
   # - caption: References 
