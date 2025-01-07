@@ -42,6 +42,11 @@ parts:
       sections:
         - file: notebook_4/PythonNotebook4_matplotlib.ipynb
 
+    - file: notebook_5/PythonNotebook5_first_page.ipynb
+      sections:
+        - file: notebook_5/PythonNotebook5_vectors_and_plotting_with_numpy.ipynb
+        - file: notebook_5/PythonNotebook5_loading_data.ipynb
+
     
   # - caption: References 
   #   chapters:
