@@ -48,6 +48,9 @@ parts:
         - file: notebook_5/PythonNotebook5_loading_data.ipynb
         - file: exercise_notebooks/exercise_notebook_week_6.ipynb
 
+    - file: notebook_6/PythonNotebook6_first_page.ipynb
+      
+
     
   # - caption: References 
   #   chapters:
