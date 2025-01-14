@@ -49,6 +49,8 @@ parts:
         - file: exercise_notebooks/exercise_notebook_week_6.ipynb
 
     - file: notebook_6/PythonNotebook6_first_page.ipynb
+      sections:
+        - file: exercise_notebooks/exercise_notebook_week_7.ipynb
       
 
     
