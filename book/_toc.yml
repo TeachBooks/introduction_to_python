@@ -5,6 +5,7 @@ parts:
   - caption: Getting started!
     chapters:
     - file: installation/installation.md
+    - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 
   - caption: Files and folders
     chapters:
