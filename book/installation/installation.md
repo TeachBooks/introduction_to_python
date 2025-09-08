@@ -37,6 +37,5 @@ best to avoid spaces in the path.
 
 # First Exercise Notebook
 
-* [Click here](https://github.com/TeachBooks/introduction_to_python/blob/main/book/exercise_notebooks/exercise_1.zip) to download Exercise Notebook 1.
-* Unzip the file so that you can open the Jupyter Notebook (which has a `.ipynb` extension)
-* Jupyter Notebook should be automatically installed with Anaconda. Search for anaconda prompt in your searchbar, write the following command: "jupyter notebook", and press enter to run it. Once Jupyter notebook has been opened in your browser, you can search for the Jupyter Notebook "Exercise Notebook 1" in the folder where you downloaded it to and open it.
+* Go to the next page, which will open the first notebook exercise, which you should download to your computer, and then need to open with Jupyter Notebook.
+* Jupyter Notebook should be automatically installed with Anaconda. You can launch it from the Anaconda Navigator app, or search for anaconda prompt in your searchbar, write the following command: "jupyter notebook", and press enter to run it. Once Jupyter notebook has been opened in your browser, you can search for the Jupyter Notebook "Exercise Notebook 1" in the folder where you downloaded it to and open it.
