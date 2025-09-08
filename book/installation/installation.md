@@ -7,6 +7,16 @@ a way to run Python programs on your own computer.
 If you use Windows or a Mac, we recommend installing Anaconda
 following the instructions below.
 
+```{admonition} Attention
+:class: danger
+Do not install Anaconda in a location (path) that contains
+non-latin characters, for example if you have Chinese or other
+non-latin characters in your Windows user name.  Select an
+installation path which does not contain such characters. Also it's
+best to avoid spaces in the path.
++++
+```
+
 ## Installing Anaconda on Windows
 
 * Go to [anaconda.com/download](https://anaconda.com/download)
@@ -24,16 +34,6 @@ following the instructions below.
   In any case, choose a "Graphical Installer"
 * Figure out where you downloaded the file. Run it.
   Complete the installation according to the instructions you see.
-
-```{admonition} Attention
-:class: danger
-Do not install Anaconda in a location (path) that contains
-non-latin characters, for example if you have Chinese or other
-non-latin characters in your Windows user name.  Select an
-installation path which does not contain such characters. Also it's
-best to avoid spaces in the path.
-+++
-```
 
 # First Exercise Notebook
 
