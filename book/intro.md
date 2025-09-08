@@ -1,7 +1,7 @@
 (intro)=
 # Welcome to Introduction to Python
 
-This Introduction to Python course is part of AESB1000 Grand Challenges for first-year BSc. Applied Earth Sciences students at TU Delft. The accompanying book contains the theoretical material, while exercises are provided as separate notebooks on Brightspace, which must be completed and submitted in pairs.
+This Introduction to Python course is part of Exploring the Grand Challenges (ECTB1110A) for first-year BSc Earth, Climate & Technology students at TU Delft. The accompanying book contains the theoretical material, while exercises are provided as separate notebooks via this online book. You can work in pairs on the exercises in class. The tutors in class are available for questions and will check your progress and solutions.
 
 In this course, you will use **Python Notebooks** with Jupyter Notebooks or Jupyter Lab for exercises. These notebooks allow you to run scripts in segments, called cells, enabling you to execute specific code parts individually. To run a cell, select it and press **'run cell'** or use the **Shift + Enter** shortcut. This is particularly useful for data analysis, as it allows for quick modifications or the addition of explanations, formulas, or visualizations.
 
