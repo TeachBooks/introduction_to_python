@@ -9,7 +9,7 @@ following the instructions below.
 
 ## Installing Anaconda on Windows
 
-* Go to [anaconda.com/download](https://anaconda.com/download)
+* Go to [anaconda.com/download](https://anaconda.com/download){:target="_blank"}
 * Click "skip registration"
 * Under the header "Distribution Installers", in the box "Windows", download "64-Bit Graphical Installer"
 * Figure out where you downloaded the file and double click on the file to run it.
@@ -17,7 +17,7 @@ following the instructions below.
 
 ## Installing Anaconda on a Mac
 
-* Go to [anaconda.com/download](https://anaconda.com/download)
+* Go to [anaconda.com/download](https://anaconda.com/download){:target="_blank"}
 * Under the header "Distribution Installers", in the box "Mac", choose one of the options.
   Choose "Apple Silicon" if your Mac is new and has an m1, m2, or m3 processor.
   Choose "Intel Chip" if your Mac is older and has an Intel processor.
