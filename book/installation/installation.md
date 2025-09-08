@@ -4,11 +4,7 @@ In this course you will be learning the programming language
 Python. To try it in practice and to do the course exercises you need
 a way to run Python programs on your own computer.
 
-If you use Linux (which we highly recommended in the long term), you
-can install Jupyter with your system's package manager. You can ask a
-TA or the lecturer for help.
-
-If you have Windows or a Mac, we recommend installing Anaconda,
+If you use Windows or a Mac, we recommend installing Anaconda
 following the instructions below.
 
 ## Installing Anaconda on Windows
