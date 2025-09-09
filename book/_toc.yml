@@ -4,6 +4,7 @@ root: intro.md
 parts:
   - caption: Getting started!
     chapters:
+    - file: computers/computers.md
     - file: installation/installation.md
 
   - caption: Files and folders
