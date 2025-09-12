@@ -17,14 +17,14 @@ parts:
     - file: files-and-folders/book/part4/part4.md
     - file: files-and-folders/book/part5/part5.md
 
-  # - caption: Course content
-  #   chapters:
-  #   - file: notebook_1/PythonNotebook1_first_page.ipynb
-  #     sections:
-  #       - file: notebook_1/PythonNotebook1_first_python_script.ipynb
-  #       - file: notebook_1/PythonNotebook1_python_variables.ipynb
-  #       - file: notebook_1/PythonNotebook1_python_operators.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_week_2.ipynb
+  - caption: Course content
+    chapters:
+    - file: notebook_1_operators_variables/PythonNotebook1_first_page.ipynb
+      sections:
+        - file: notebook_1_operators_variables/PythonNotebook1_first_python_script.ipynb
+        - file: notebook_1_operators_variables/PythonNotebook1_python_variables.ipynb
+        - file: notebook_1_operators_variables/PythonNotebook1_python_operators.ipynb
+        - file: exercise_notebooks/exercise_notebook_1_operators_variables.ipynb
 
   #   - file: notebook_2/PythonNotebook2_first_page.ipynb
   #     sections:
