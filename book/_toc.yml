@@ -26,13 +26,13 @@ parts:
         - file: notebook_1_operators_variables/PythonNotebook1_python_operators.ipynb
         - file: exercise_notebooks/exercise_notebook_1_operators_variables.ipynb
 
-  #   - file: notebook_2_smart_coding/PythonNotebook2_first_page.ipynb
-  #     sections:
-  #       - file: notebook_2_smart_coding/PythonNotebook2_f-strings.ipynb
-  #       - file: notebook_2_smart_coding/PythonNotebook2_functions.ipynb
-  #       - file: notebook_2_smart_coding/PythonNotebook2_modules.ipynb
-  #       - file: notebook_2_smart_coding/PythonNotebook2_conditions.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_2_smart_coding.ipynb
+    - file: notebook_2_smart_coding/PythonNotebook2_first_page.ipynb
+      sections:
+        - file: notebook_2_smart_coding/PythonNotebook2_f-strings.ipynb
+        - file: notebook_2_smart_coding/PythonNotebook2_functions.ipynb
+        - file: notebook_2_smart_coding/PythonNotebook2_modules.ipynb
+        - file: notebook_2_smart_coding/PythonNotebook2_conditions.ipynb
+        - file: exercise_notebooks/exercise_notebook_2_smart_coding.ipynb
 
   #   - file: notebook_3_structures_loops_debugging/PythonNotebook3_first_page.ipynb
   #     sections:
