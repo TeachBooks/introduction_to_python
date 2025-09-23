@@ -26,36 +26,36 @@ parts:
         - file: notebook_1_operators_variables/PythonNotebook1_python_operators.ipynb
         - file: exercise_notebooks/exercise_notebook_1_operators_variables.ipynb
 
-  #   - file: notebook_2/PythonNotebook2_first_page.ipynb
+  #   - file: notebook_2_smart_coding/PythonNotebook2_first_page.ipynb
   #     sections:
-  #       - file: notebook_2/PythonNotebook2_f-strings.ipynb
-  #       - file: notebook_2/PythonNotebook2_functions.ipynb
-  #       - file: notebook_2/PythonNotebook2_modules.ipynb
-  #       - file: notebook_2/PythonNotebook2_conditions.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_week_3.ipynb
+  #       - file: notebook_2_smart_coding/PythonNotebook2_f-strings.ipynb
+  #       - file: notebook_2_smart_coding/PythonNotebook2_functions.ipynb
+  #       - file: notebook_2_smart_coding/PythonNotebook2_modules.ipynb
+  #       - file: notebook_2_smart_coding/PythonNotebook2_conditions.ipynb
+  #       - file: exercise_notebooks/exercise_notebook_2_smart_coding.ipynb
 
-  #   - file: notebook_3/PythonNotebook3_first_page.ipynb
+  #   - file: notebook_3_structures_loops_debugging/PythonNotebook3_first_page.ipynb
   #     sections:
-  #       - file: notebook_3/PythonNotebook3_data_structures.ipynb
-  #       - file: notebook_3/PythonNotebook3_loops.ipynb
-  #       - file: notebook_3/PythonNotebook3_debugging.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_week_4.ipynb
+  #       - file: notnotebook_3_structures_loops_debuggingebook_3/PythonNotebook3_data_structures.ipynb
+  #       - file: notebook_3_structures_loops_debugging/PythonNotebook3_loops.ipynb
+  #       - file: notebook_3_structures_loops_debugging/PythonNotebook3_debugging.ipynb
+  #       - file: exercise_notebooks/exercise_notebook_3_structures_loops_debugging.ipynb
 
-  #   - file: notebook_4/PythonNotebook4_first_page.ipynb
+  #   - file: notebook_4_figures/PythonNotebook4_first_page.ipynb
   #     sections:
-  #       - file: notebook_4/PythonNotebook4_matplotlib.ipynb
+  #       - file: notebook_4_figures/PythonNotebook4_matplotlib.ipynb
+  #       - file: exercise_notebooks/exercise_notebook_4_figures.ipynb
 
-  #   - file: notebook_5/PythonNotebook5_first_page.ipynb
+  #   - file: notebook_5_numpy/PythonNotebook5_first_page.ipynb
   #     sections:
-  #       - file: notebook_5/PythonNotebook5_vectors_and_plotting_with_numpy.ipynb
-  #       - file: notebook_5/PythonNotebook5_loading_data.ipynb
-  #       - file: exercise_notebooks/exercise_notebook_week_6.ipynb
+  #       - file: notebook_5_numpy/PythonNotebook5_vectors_and_plotting_with_numpy.ipynb
+  #       - file: notebook_5_numpy/PythonNotebook5_loading_data.ipynb
+  #       - file: exercise_notebooks/exercise_notebook_5_numpy.ipynb
 
-  #   - file: notebook_6/PythonNotebook6_first_page.ipynb
+  #   - file: notebook_6_files/PythonNotebook6_first_page.ipynb
   #     sections:
-  #       - file: exercise_notebooks/exercise_notebook_week_7.ipynb
+  #       - file: exercise_notebooks/exercise_notebook_6_files.ipynb
       
-
     
   # - caption: References 
   #   chapters:
