@@ -36,7 +36,7 @@ parts:
 
     - file: notebook_3_structures_loops_debugging/PythonNotebook3_first_page.ipynb
       sections:
-        - file: notnotebook_3_structures_loops_debuggingebook_3/PythonNotebook3_data_structures.ipynb
+        - file: notebook_3_structures_loops_debuggingebook_3/PythonNotebook3_data_structures.ipynb
         - file: notebook_3_structures_loops_debugging/PythonNotebook3_loops.ipynb
         - file: notebook_3_structures_loops_debugging/PythonNotebook3_debugging.ipynb
         - file: exercise_notebooks/exercise_notebook_3_structures_loops_debugging.ipynb
