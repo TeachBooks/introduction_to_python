@@ -38,8 +38,9 @@ parts:
       sections:
         - file: notebook_3_structures_loops_debugging/PythonNotebook3_data_structures.ipynb
         - file: notebook_3_structures_loops_debugging/PythonNotebook3_loops.ipynb
-        - file: notebook_3_structures_loops_debugging/PythonNotebook3_debugging.ipynb
-        - file: exercise_notebooks/exercise_notebook_3_structures_loops_debugging.ipynb
+        # - file: notebook_3_structures_loops_debugging/PythonNotebook3_debugging.ipynb
+        - file: exercise_notebooks/exercise_notebook_3_structures_loops.ipynb
+        # - file: exercise_notebooks/exercise_notebook_3_loops_debugging.ipynb
 
   #   - file: notebook_4_figures/PythonNotebook4_first_page.ipynb
   #     sections:
