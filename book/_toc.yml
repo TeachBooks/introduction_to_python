@@ -42,10 +42,10 @@ parts:
         - file: exercise_notebooks/exercise_notebook_3_structures_loops.ipynb
         # - file: exercise_notebooks/exercise_notebook_3_loops_debugging.ipynb
 
-    # - file: notebook_4_debugging/PythonNotebook4_first_page.ipynb
-    #   sections:
-    #     - file: notebook_4_debugging/PythonNotebook4_debugging.ipynb
-    #     - file: exercise_notebooks/exercise_notebook_4_debugging.ipynb
+    - file: notebook_4_debugging/PythonNotebook4_first_page.ipynb
+      sections:
+        - file: notebook_4_debugging/PythonNotebook4_debugging.ipynb
+        - file: exercise_notebooks/exercise_notebook_4_debugging.ipynb
 
   #   - file: notebook_5_figures/PythonNotebook5_first_page.ipynb
   #     sections:
